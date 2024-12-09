@@ -1,1 +1,0 @@
-const { gets, print } = require('./funcao-ex2');
